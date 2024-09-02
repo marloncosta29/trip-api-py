@@ -5,4 +5,5 @@ O projeto é uma API para gerenciamento de viajens onde é possivel criar uma vi
 Comando para entrar no ambiente virtual > source venv/bin/activate
 
 versão: python3
+
 projeto ainda em andamento.
